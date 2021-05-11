@@ -346,7 +346,7 @@
 		"array-flat-polyfill": "^1.0.1",
 		"clipboardy": "^2.3.0",
 		"glob": "^7.1.6",
-		"lodash": "^4.17.19",
+		"lodash": "^4.17.21",
 		"node-fetch": "^2.6.1",
 		"rxjs": "^6.5.5",
 		"string.prototype.matchall": "^4.0.2"
